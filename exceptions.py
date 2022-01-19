@@ -1,0 +1,3 @@
+
+class QualityError(Exception):
+    pass
