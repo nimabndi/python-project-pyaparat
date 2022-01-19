@@ -46,7 +46,3 @@ class Scraper:
         for i in range(len(links)):
             available_qualities.append(qua[i])
         return available_qualities
-
-
-# s = Scraper('https://www.aparat.com/v/GiIQl', '144')
-# print(s.get_link())
